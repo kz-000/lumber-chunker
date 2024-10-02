@@ -1,12 +1,18 @@
+# LumberChunker
+
+- https://arxiv.org/abs/2406.17526
+- https://github.com/joaodsmarques/LumberChunker
+
 # Setup
+
 ```bash
-> git clone repository
+> git clone https://github.com/kz-000/lumber-chunker
 > cd lumber_chunker
 > pip install -e .
 ```
 
-
 # How to use
+
 ```python
 import sys
 from langchain_openai import AzureChatOpenAI, AzureOpenAIEmbeddings
